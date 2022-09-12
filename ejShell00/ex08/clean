@@ -1,0 +1,3 @@
+find -E | (-name '*~' -o -name '#*#') | xargs rm -v
+
+
